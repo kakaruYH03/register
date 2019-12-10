@@ -55,7 +55,8 @@
 <pre>
 {
   "id:"gk12",
-  "password":gk12"
+  "password":gk12",
+  "nickname":"유니팅"
 }
 </pre>
 
