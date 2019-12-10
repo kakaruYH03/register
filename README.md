@@ -20,9 +20,11 @@
 #### 성공
 
 <pre>
-{  
-  'id':'gk12',
-  'nickname':'유니팅'
+{
+    "id": "gk12",
+    "nickname": "유니팅",
+    "password": "rSFp9e5uwHrHwWgAhV/ZGV3tlPuQ7arnEcLS7P6e0kvXwTqr8tspHEfp6hdjyWtx+xKr+uHo4mzmaGBVmoTfDA==",
+    "_id": "5def6144fe3fee07bc720774"
 }
 </pre>
 
@@ -43,8 +45,8 @@
 
 <pre>
 {  
-  'id':'gk12',
-  'password':'gk12'
+  "id":"gk12",
+  "password":"gk12"
 }
 </pre>
 
@@ -52,6 +54,6 @@
 
 <pre>
 {
-'message':'400 Bad Response'
+"message":"400 Bad Response"
 }
 </pre>
