@@ -28,6 +28,7 @@
 </pre>
 
 ### 실패
+
 <pre>
 {
   'message':'400 Bad Response'
