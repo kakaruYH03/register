@@ -50,6 +50,16 @@
 }
 </pre>
 
+### 성공
+
+<pre>
+{
+  "id:"gk12",
+  "password":gk12",
+  "nickname":"유니팅"
+}
+</pre>
+
 ### 실패
 
 <pre>
